@@ -11,12 +11,13 @@ Currently, I am happiest when making architectural changes, teaching & learning 
 - [second-brain](https://github.com/brass-raven/second-brain): A pre-built vault set up to work in the incredible note taking application [Obsidian](https://obsidian.md).
 - [dotfiles](https://github.com/DustinMEastway/dotfiles): Files used to set a system up with preferred applications and configuration.
 - [text-to-speech](https://github.com/DustinMEastway/text-to-speech): Program that converts EPUB books into audiobooks using the built-in MacOS speech service.
-- [tstack](https://github.com/DustinMEastway/tstack): An open-source library used to make developing web applications easier (archived until I retire, but I am still proud of its auto-generated [docs](https://dustinmeastway.github.io/tstack)).
+- [tstack](https://github.com/DustinMEastway/tstack): An open-source library used to make developing web applications easier (archived until I retire, but I am still proud of its [docs](https://dustinmeastway.github.io/tstack) that I auto-generated using JSDocs in the code).
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DustinMEastway&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/DustinMEastway)
+## Technologies To Learn
 
-## TODO Technologies
-
+- NeoVIM.
 - Lua.
+- Docker.
+- Electron.
 - Svelte.
 - Rust.
